@@ -12,7 +12,7 @@ var About = (props) => {
   return (
     <div>
       <h3>About</h3>
-      <p>About page is up!</p>
+      <p>About page is up</p>
     </div>
   )
 };
