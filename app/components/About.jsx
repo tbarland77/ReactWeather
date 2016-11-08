@@ -10,7 +10,10 @@ var React = require('react');
 // es6 version
 var About = (props) => {
   return (
-    <h3>About Component</h3>
+    <div>
+      <h3>About</h3>
+      <p>About page is up!</p>
+    </div>
   )
 };
 
